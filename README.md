@@ -74,6 +74,8 @@ The project analyzes e-commerce sales, customer behavior, payment methods, deliv
 - Analyzed seller review performance
 
 ## 📈 Dashboard
+![Olist Power BI Dashboard]
+(Olist_powerBI_Dashboard.png)
 
 The Power BI dashboard includes:
 
