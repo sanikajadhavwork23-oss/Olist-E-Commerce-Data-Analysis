@@ -109,9 +109,13 @@ The Power BI dashboard includes:
 
 ## 📚 Dataset
 
-*Brazilian E-Commerce Public Dataset by Olist*
+This project uses the *Brazilian E-Commerce Public Dataset by Olist*, sourced from Kaggle.
 
-The dataset contains information about orders, customers, products, sellers, payments, reviews and other e-commerce activities.
+The dataset contains approximately 100,000 orders from 2016–2018 and includes information about orders, customers, products, sellers, payments, reviews, and delivery.
+
+### Dataset Source
+
+[Olist Brazilian E-Commerce Public Dataset – Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 ## 👩‍💻 Skills Demonstrated
 
