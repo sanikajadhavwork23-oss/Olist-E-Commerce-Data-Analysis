@@ -1,12 +1,12 @@
-# 🛒 Olist E-Commerce Data Analysis
+# Olist E-Commerce Data Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 An end-to-end data analytics project using the Brazilian E-Commerce Public Dataset by Olist.
 
 The project analyzes e-commerce sales, customer behavior, payment methods, delivery performance, product categories, and seller performance using Python, Excel, and Power BI.
 
-## 🎯 Business Objectives
+##  Business Objectives
 
 - Analyze overall sales and order performance
 - Understand customer purchasing behavior
@@ -18,7 +18,7 @@ The project analyzes e-commerce sales, customer behavior, payment methods, deliv
 - Analyze seller performance
 - Build an interactive business dashboard
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - *Python* — Data cleaning, transformation and exploratory data analysis
 - *Pandas* — Data manipulation and analysis
@@ -27,7 +27,7 @@ The project analyzes e-commerce sales, customer behavior, payment methods, deliv
 - *DAX* — Measures and KPI calculations
 - *Jupyter Notebook* — Python analysis environment
 
-## 📊 Key KPIs
+## Key KPIs
 
 | KPI | Value |
 |---|---:|
@@ -39,41 +39,41 @@ The project analyzes e-commerce sales, customer behavior, payment methods, deliv
 | Repeat Customer Rate | 3.12% |
 | Late Delivery Rate | 6.77% |
 
-## 🔍 Key Analysis
+##  Key Analysis
 
-### 👥 Customer Analysis
+###  Customer Analysis
 
 - Compared repeat customers with one-time customers
 - Analyzed customer spending and order frequency
 - Identified high-value customers
 - Analyzed spending based on number of orders
 
-### 💳 Payment Analysis
+###  Payment Analysis
 
 - Credit card generated the highest payment value
 - Compared payment methods based on transaction value
 - Analyzed customer spending based on number of payment methods used
 
-### 🚚 Delivery Analysis
+### Delivery Analysis
 
 - Analyzed early, late and undelivered orders
 - Calculated delivery performance
 - Compared late delivery rates across customer locations
 
-### 📦 Product & Category Analysis
+###  Product & Category Analysis
 
 - Identified top product categories by revenue
 - Analyzed categories associated with repeat purchases
 - Compared repeat order volume with repeat purchase rates
 
-### 🏪 Seller Analysis
+### Seller Analysis
 
 - Identified top sellers by revenue
 - Analyzed seller order volume
 - Compared seller average order value
 - Analyzed seller review performance
 
-## 📈 Dashboard
+##  Dashboard
 ![Olist Power BI Dashboard]
 (Olist_powerBI_Dashboard.png)
 
@@ -87,7 +87,7 @@ The Power BI dashboard includes:
 - Customer and sales KPIs
 - Interactive filters for Order Status and Payment Type
 
-## 💡 Key Business Insights
+##  Key Business Insights
 
 1. Repeat customers represented only *3.12%* of the customer base, highlighting an opportunity to improve customer retention.
 
@@ -101,13 +101,13 @@ The Power BI dashboard includes:
 
 6. Seller performance varied significantly in terms of revenue, order volume, average order value and customer reviews.
 
-## 📂 Project Files
+##  Project Files
 
 - Olist_Ecommerce_Analysis.ipynb — Python analysis
 - Olist_Ecommerce_Analysis.xlsx — Excel analysis and dashboard
 - Olist_Ecommerce_Dashboard.pbix — Power BI dashboard
 
-## 📚 Dataset
+##  Dataset
 
 This project uses the *Brazilian E-Commerce Public Dataset by Olist*, sourced from Kaggle.
 
